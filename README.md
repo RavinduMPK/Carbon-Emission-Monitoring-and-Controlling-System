@@ -11,10 +11,14 @@ The lack of proper monitoring systems for emissions contributes to this undesira
 ## Analysis
 
 The data shows that in outdoor areas, CO2 concentration remains relatively stable, whereas indoors, it can experience significant fluctuations. This discrepancy highlights the need for a robust monitoring solution that can accurately and consistently detect CO2 concentration changes in both environments.
+![image](https://github.com/RavinduMPK/Team_1.0/assets/68577937/9132f545-c699-4a61-97cf-6656da242a44)
+
 
 ## Solution
 
 Our proposed solution leverages Terahertz range frequencies to monitor CO2 emissions effectively. Unlike traditional CO2 sensors, which are often point-based and limited in coverage, our system utilizes the IR absorption properties of CO2 and other toxic gases to provide a broader and more comprehensive monitoring capability.
+![image](https://github.com/RavinduMPK/Team_1.0/assets/68577937/0fbfc080-bb8b-46cc-bdcf-be5730a330b1)
+
 
 ## Product Overview and Uniqueness
 
@@ -38,11 +42,17 @@ We outline a strategic business model that starts with an indoor monitoring syst
 ### Technology and Platform
 - Raspberry Pi and advanced computer vision techniques.
 - Future implementation includes a mobile app for localized atmospheric information.
+![image](https://github.com/RavinduMPK/Team_1.0/assets/68577937/e09d1b8e-4727-4738-a03b-4190979ecbe6)
+
 
 ## User Scenarios
 
 1. **Outdoor Monitoring**: Fixed transmitter in a tower, receivers in specific areas.
+   ![image](https://github.com/RavinduMPK/Team_1.0/assets/68577937/942a95e4-050b-4107-a9a2-b228c8cd54bf)
+
 2. **Indoor Monitoring**: Transmitter and receiver mounted on walls to detect indoor CO2 concentration changes.
+   ![image](https://github.com/RavinduMPK/Team_1.0/assets/68577937/2c08ef8e-8b26-4fb0-99e9-1ddc7aa7e54b)
+
 
 ## Technical Limitation
 

@@ -56,14 +56,13 @@ We outline a strategic business model that starts with an indoor monitoring syst
 
 ## Technical Limitation
 
-Due to technical limitations in designing and procuring Terahertz range antennas, physical implementation of the system is not feasible. However, the proposal outlines a robust conceptual framework.
+Due to technical limitations in designing and procuring Terahertz range antennas, physical implementation of the system was not feasible in Sri Lanka. Because, in our lab, we can't get that much of precision when design the antenna. And also, we couldn't able to buy one because those are very expensive.
 
 ## Contact Information
 
 For inquiries or more information about this project proposal, please contact us:
-- Email: [your_email@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [ravindumadushan005@gmail.com]
+- LinkedIn: [linkedin.com/in/ravindu-madushan-b5b078217]
 
 ---
 
-[Optional: Add any acknowledgments, credits, or additional notes.]
